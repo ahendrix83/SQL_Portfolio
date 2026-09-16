@@ -1,11 +1,8 @@
-# DFPS_REMOVALS
-Texas DFPS child removals summary:
-This project cleans, analysis and presents visuals for the CPS 2.1 Removals - by Region with Child Demographics FY2016-2025 dataset. 
+# SQL & PL/SQL Data Analytics Portfolio
 
-A CPS removal occurs when CPS determines that a child is not safe to remain in their home and there is DFPS intervention to ensure the child's safety. 
-Texas has 254 counties and DFPS has 11 regions.
+Welcome to my SQL and Relational Database Portfolio. This repository serves as a comprehensive showcase of my ability to design a relational databases, write complex SQL queries, and implement PL/SQL programmatic logic to solve real-world data problems and extract actionable insights.
 
-The dataset used for this project is found on the Texas Open Data Portal
-https://data.texas.gov/dataset/CPS-2-1-Removals-by-Region-with-Child-Demographics/izsm-24wy/about_data
-
-
+Technical Stack
+Languages: SQL, PL/SQL
+RDBMS Environments: Oracle DB / 
+Core Competencies: Relational Database Design (ERDs), Subqueries & CTEs, Window Functions, Stored Procedures, Functions, Triggers, Performance Tuning, Data Cleansing & ETL.
